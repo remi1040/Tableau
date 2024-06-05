@@ -1,0 +1,14 @@
+C:\Users\remim\source\repos\Tableau\Tableau\bin\Debug\net8.0\Tableau.exe
+C:\Users\remim\source\repos\Tableau\Tableau\bin\Debug\net8.0\Tableau.deps.json
+C:\Users\remim\source\repos\Tableau\Tableau\bin\Debug\net8.0\Tableau.runtimeconfig.json
+C:\Users\remim\source\repos\Tableau\Tableau\bin\Debug\net8.0\Tableau.dll
+C:\Users\remim\source\repos\Tableau\Tableau\bin\Debug\net8.0\Tableau.pdb
+C:\Users\remim\source\repos\Tableau\Tableau\obj\Debug\net8.0\Tableau.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\remim\source\repos\Tableau\Tableau\obj\Debug\net8.0\Tableau.AssemblyInfoInputs.cache
+C:\Users\remim\source\repos\Tableau\Tableau\obj\Debug\net8.0\Tableau.AssemblyInfo.cs
+C:\Users\remim\source\repos\Tableau\Tableau\obj\Debug\net8.0\Tableau.csproj.CoreCompileInputs.cache
+C:\Users\remim\source\repos\Tableau\Tableau\obj\Debug\net8.0\Tableau.dll
+C:\Users\remim\source\repos\Tableau\Tableau\obj\Debug\net8.0\refint\Tableau.dll
+C:\Users\remim\source\repos\Tableau\Tableau\obj\Debug\net8.0\Tableau.pdb
+C:\Users\remim\source\repos\Tableau\Tableau\obj\Debug\net8.0\Tableau.genruntimeconfig.cache
+C:\Users\remim\source\repos\Tableau\Tableau\obj\Debug\net8.0\ref\Tableau.dll
